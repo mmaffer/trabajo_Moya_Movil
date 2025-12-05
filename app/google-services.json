@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692380203684",
+    "project_id": "examfinalymoya",
+    "storage_bucket": "examfinalymoya.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692380203684:android:9416cc43a23829a7a24431",
+        "android_client_info": {
+          "package_name": "com.tecsup.productmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOJSImdfo5IygNdJM6jpHHO2V1bjd1P6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
